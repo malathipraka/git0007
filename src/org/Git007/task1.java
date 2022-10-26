@@ -16,6 +16,15 @@ public class task1 {
 		private void test3() {
 			System.out.println("testmethod test3");
 		}
+		   @Test
+		private void test4() {
+			System.out.println("testmethod test4");
+		}
+		   @Test
+		private void test5() {
+			System.out.println("testmethod test5");
+		}
+			
 		@Test
 		private void testb() {
 			System.out.println("testmethod testb");
